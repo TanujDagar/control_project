@@ -1,0 +1,4 @@
+Comparison,RMSE_rad_s,MaxAbsError_rad_s
+Quantisation wrt windowed,0.173730513621959,0.35413005545167
+Raw wrt instantaneous,0.412843713963525,2.24358574659477
+Filtered wrt instantaneous,1.32253200921636,6.22075554670028

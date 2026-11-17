@@ -1,0 +1,13 @@
+Symbol,Value,Unit,Origin
+Rm,7.5,ohm,datasheet
+Lm,0.00115,H,datasheet
+Kt,0.0422,N*m/A,datasheet
+Km,0.0422,V/(rad/s),datasheet
+Jm,1.4e-06,kg*m^2,datasheet
+Jh,6e-07,kg*m^2,datasheet
+md,0.053,kg,datasheet
+rd,0.0248,m,datasheet
+Jd,1.629856e-05,kg*m^2,calculated: solid disk
+J,1.829856e-05,kg*m^2,calculated: combined inertia
+b,0,N*m*s/rad,assumed: not supplied
+N_enc,2048,counts/rev,datasheet: quadrature

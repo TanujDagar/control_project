@@ -1,0 +1,9 @@
+Independent analytical check (SciPy), NOT MATLAB/Simulink or hardware results.
+J_disk [kg*m^2]: 1.629856e-05
+J_total [kg*m^2]: 1.829856e-05
+K_dc [(rad/s)/V]: 23.6966824645
+tau_red [s]: 0.0770643067317
+pole_red [rad/s]: -12.9761759031
+full_pole1 [rad/s]: -6508.73703284
+full_pole2 [rad/s]: -13.0020975995
+steady_speed_2V [rad/s]: 47.3933649289

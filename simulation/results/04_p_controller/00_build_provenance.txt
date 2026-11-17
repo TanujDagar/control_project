@@ -1,0 +1,8 @@
+Release: 2024a
+Date: 2026-11-16 00:19:56
+Parameter source: /Users/tanuj/Documents/study/agy/control_wind/simulation/PS5_R2024a_Starter/02_identification/parameters_sim_identified.m
+Model: /Users/tanuj/Documents/study/agy/control_wind/simulation/PS5_R2024a_Starter/04_p_control/ps5_stage04_p_hardware_matched_R2024a.slx
+Kp_only=0.165964552404, Ts=0.002, N_enc=2048, N_avg=4, alpha=0.833333333333
+Exact hardware P ordering: error->gain->sat->disturbance->plant.
+P_cmd is controller-clamped voltage BEFORE the disturbance.
+Hardware amplifier default 0.65V deadband is not included in original HW script or baseline simulation.

@@ -1,0 +1,13 @@
+MATLAB release: 2024a
+Run date: 2026-11-15 23:44:50
+Parameter source: /Users/tanuj/Documents/study/agy/control_wind/simulation/PS5_R2024a_Starter/02_identification/parameters_sim_identified.m
+Manufacturer full plant with b=0; identified K,tau are metadata only.
+Ts = 0.002 s; sample frequency = 500 Hz
+N_enc = 2048 counts/rev; N_avg = 4; alpha_f = 0.833333333333
+Encoder quantum = 0.00306796157577 rad/count
+4-sample speed increment = 0.383495196971 rad/s/count
+Continuous speed poles: [-6508.73703284;-13.0020975995]
+Discrete speed poles: [0.974331002088;2.22117534898e-06]
+Extra position integrator pole in 3-state discrete model: z=1
+Steady raw ripple peak-to-peak: 0.383495196971 rad/s
+Steady filtered ripple peak-to-peak: 0.165013644978 rad/s

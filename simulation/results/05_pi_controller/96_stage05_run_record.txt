@@ -1,0 +1,10 @@
+Stage 05 MATLAB release=2024a, run=2026-11-16 00:41:52
+Model=/Users/tanuj/Documents/study/agy/control_wind/simulation/PS5_R2024a_Starter/05_pi_control/ps5_stage05_pi_hardware_matched_R2024a.slx
+Parameter source=/Users/tanuj/Documents/study/agy/control_wind/simulation/PS5_R2024a_Starter/02_identification/parameters_sim_identified.m
+Gains: Kp=0.165964552404, Ki=5.20404757784, sample period=0.002
+Exact PI block: Parallel, discrete, Forward Euler, internal +/-10V saturation and clamping anti-windup.
+Final saturation AFTER disturbance (different from Stage-4 P).
+Raw cmd log is after disturbance / before final clamp; cmd log is final plant voltage.
+Feedback 4-sample quadrature encoder speed, filter alpha=0.833333333333.
+No physical hardware data, amplifier deadband or unmeasured friction in model.
+All controller and measurement self-checks passed (<1e-7).

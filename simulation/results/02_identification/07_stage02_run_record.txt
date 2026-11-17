@@ -1,0 +1,8 @@
+MATLAB release: 2024a
+Date: 2026-11-15 23:27:28
+Data source: simulated full 2-state manufacturer model, b=0.
+K_theory=23.6966824645; tau_theory=0.0770643067317 s
+K_sim_identified=23.6981702209; tau_sim_identified=0.0770790033359 s
+Kp_sim=0.165964552404; Ki_sim=5.20404757784
+Validation RMSE ramp=0.00290099218507 rad/s, multi-step=0.0229818801468 rad/s
+No measured hardware data was used.

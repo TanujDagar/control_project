@@ -1,0 +1,8 @@
+MATLAB release=2024a, built=2026-11-16 00:40:42
+Parameter file=/Users/tanuj/Documents/study/agy/control_wind/simulation/PS5_R2024a_Starter/02_identification/parameters_sim_identified.m
+Model=/Users/tanuj/Documents/study/agy/control_wind/simulation/PS5_R2024a_Starter/05_pi_control/ps5_stage05_pi_hardware_matched_R2024a.slx
+Kp=0.165964552404 Ki=5.20404757784 Ts=0.002
+PI block: Parallel, Discrete-time, Forward Euler, SampleTime=Ts, internal clamp +/-10V, antiwindup=clamping.
+Hardware PI exact order: PI internal saturation -> disturbance -> final saturation -> motor.
+PI_cmd_raw = Dist_Sum (BEFORE final saturation); PI_cmd = final saturation.
+Analog amplifier deadband/friction nonlinearity not included in this theoretical model.

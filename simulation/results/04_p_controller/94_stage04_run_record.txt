@@ -1,0 +1,10 @@
+Stage 04 completed with MATLAB 2024a at 2026-11-16 00:39:40
+Source: /Users/tanuj/Documents/study/agy/control_wind/simulation/PS5_R2024a_Starter/02_identification/parameters_sim_identified.m
+Plant model: manufacturer full second-order electrical/mechanical + angle integrator; beq=0
+Kp_only=0.165964552404; Ts=0.002; limits=[-10, 10] V; N_enc=2048; N_avg=4; alpha=0.833333333333
+50 rad/s step at 1 s and +0.5 V at 5 s reproduce original P hardware protocol.
+Exact original P topology: SATURATION BEFORE disturbance, NO final clamp.
+P_cmd log is prior to disturbance; plant voltage is post-disturbance.
+Controller gain stays fixed when inertia changes; NO hardware data used.
+For physical comparison, amplifier deadband, friction and device nonlinearities remain unmodelled.
+All control-equation and measurement-chain self-tests passed (<1e-7).
